@@ -1,42 +1,30 @@
-import clsx from 'clsx';
-import Link from '@docusaurus/Link';
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
+// File: src/pages/my-page.js
+import React from 'react';
 import Layout from '@theme/Layout';
-import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
-import Heading from '@theme/Heading';
-import styles from './index.module.css';
-
-function HomepageHeader() {
-  const {siteConfig} = useDocusaurusContext();
+export default function MyPage() {
   return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
-      <div className="container">
-        <Heading as="h1" className="hero__title">
-          {siteConfig.title}
-        </Heading>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/intro">
-            Introduction
-          </Link>
-        </div>
-      </div>
-    </header>
-  );
-}
-
-export default function Home() {
-  const {siteConfig} = useDocusaurusContext();
-  return (
-    <Layout
-      title={`${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
-      <HomepageHeader />
-      <main>
-        <HomepageFeatures />
+    <Layout title="SPK Tech Team Wiki" description="Documentation and tutorials for equipment and events">
+      <main style={{ padding: '2rem', textAlign: 'center' }}>
+        <h1>SPK Tech Team Wiki</h1>
+        <p>Documentation and tutorials for equipment and events</p>
+        <button
+          style={{
+            padding: '0.5rem 1rem',
+            fontSize: '1rem',
+            borderRadius: '4px',
+            border: 'none',
+            backgroundColor: '#4CAF50',
+            color: 'white',
+            cursor: 'pointer',
+          }}
+          onClick={() => {window.location.href = '/docs/intro';}}
+        >
+          Get Started
+        </button>
+        <br/>
+        <br/>
+        <img src = "/img/homepage-gif.gif" alt="homepage gif" style={{ marginTop: '2rem', width: '200px' }}/>
       </main>
     </Layout>
   );
