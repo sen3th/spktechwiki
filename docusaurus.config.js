@@ -67,7 +67,7 @@ const config = {
         title: 'SPK Tech Team Wiki',
         logo: {
           alt: 'SPK Tech Team Wiki Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
         },
         items: [
           {
