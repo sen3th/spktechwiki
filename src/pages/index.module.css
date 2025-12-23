@@ -21,3 +21,30 @@
   align-items: center;
   justify-content: center;
 }
+
+.main {
+  padding: 2rem;
+  text-align: center;
+}
+
+.getStartedButton {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  border-radius: 4px;
+  border: none;
+  background-color: #4caf50;
+  color: white;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.getStartedButton:hover {
+  background-color: #45a049;
+}
+
+.heroImage {
+  margin-top: 2rem;
+  width: 320px;
+  max-width: 80vw;
+}
