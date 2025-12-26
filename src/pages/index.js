@@ -8,7 +8,7 @@ export default function MyPage() {
   return (
     <Layout title="SPK Tech Team Wiki" description="Documentation and tutorials for equipment and events">
       <main className={styles.main}>
-        <h1>SPK Tech Team Wiki</h1>
+        <h1>SPK Tech Team Wiki (Under Maintenance)</h1>
         <p>Documentation and guides for equipment/events.</p>
         <Link className={styles.getStartedButton} to="/docs/intro">
           Get Started
