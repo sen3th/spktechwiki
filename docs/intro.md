@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Introduction
 
-In this documentation, you will find all the necessary information to get started the equipments, and how to set the up for different events.
+In this documentation, you will find necessary information to get started the equipments, and how to set the up for different events.
 
 You do not need prior experience. You do need to read.
 
@@ -19,8 +19,12 @@ You do not need prior experience. You do need to read.
 
 :::note
 
-You will need a GitHub account to contribute.
+You will need a [GitHub](https://github.com/signup) account to contribute.
 
 :::
 
 You're very welcome to contribute to this wiki. To add stuff, click on the "Edit this page" link at the bottom of each page. Or just let me know at hi@seneth.me.
+
+## Safety and responsibility
+
+All equipment can be damaged or cause injuries if not used properly. If you're unsure about anything, ask **someone who knows** before using it.
