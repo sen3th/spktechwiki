@@ -29,22 +29,21 @@
 
 .getStartedButton {
   display: inline-block;
-  padding: 0.5rem 1rem;
+  padding: 0.6rem 1.2rem;
   font-size: 1rem;
-  border-radius: 4px;
+  font-weight: 600;
+  border-radius: 6px;
   border: none;
-  background-color: #4caf50;
+  background-color: #1e90ff;
   color: white;
   cursor: pointer;
   text-decoration: none;
+  transition: background-color 0.2s ease, transform 0.1s ease, box-shadow 0.2s ease;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
 .getStartedButton:hover {
-  background-color: #45a049;
-}
-
-.heroImage {
-  margin-top: 2rem;
-  width: 320px;
-  max-width: 80vw;
+  background-color: #1766aa;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
 }

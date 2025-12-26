@@ -1,8 +1,8 @@
 {
-  "label": "Event Guides",
+  "label": "Guides",
   "position": 4,
   "link": {
     "type": "generated-index",
-    "title": "Event Guides"
+    "title": "Basic Guides"
   }
 }
