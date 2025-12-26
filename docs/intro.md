@@ -11,7 +11,7 @@ You do not need prior experience. You do need to read.
 ## How to use this wiki
 
 - Use the Sidebar to browse by category.
-- ~~Use the search bar if you know what you are looking for.~~ (Search not available yet)
+- Use the search bar if you know what you are looking for.
 - Each equipment has its own page.
 - Available manuals and guides are linked on each equipment page.
 
