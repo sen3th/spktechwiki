@@ -4,7 +4,7 @@
 
 
 :::warning
-Bus outputs for monitors aren't working as intended; Use another sound board if you wish to use monitors.
+BUS outputs for monitors aren't working as intended; Use another sound board if you wish to use monitors.
 :::
 
 ## What this is
@@ -29,7 +29,7 @@ On the projector cart or on the big sound board in the corner.
 
 ## Manuals and further reading
 :::note
-The Manual is also for all of the X Air series boards, so some parts may not apply to the X18.
+The Manual and the Quick Start Guide are also for all of the X Air series boards, so some parts may not apply to the X18.
 :::
 - [Behringer X18 Product Page](https://www.behringer.com/product.html?modelCode=0605-AAA)
 - [Manual](https://cdn.mediavalet.com/aunsw/musictribe/C7_rCyq0m06k_g811vAcMQ/rX5MZCiSgkaicbD7w7bp_A/Original/M_BE_0605-AAA_X-AIR_EN.pdf)
