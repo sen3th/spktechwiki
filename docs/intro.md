@@ -18,12 +18,12 @@ You do not need prior experience. You do need to read.
 ## Contributing
 
 :::note
-
 You will need a [GitHub](https://github.com/signup) account to contribute.
-
 :::
 
-You're very welcome to contribute to this wiki. To add stuff, click on the "Edit this page" link at the bottom of each page. Or just let me know at hi@seneth.me.
+You're very welcome to contribute to this wiki. To add stuff, click on 'edit this page' at the bottom of any page, fork the repository and edit the page. You can create pull requests with your changes, and they will be reviewed before being merged.
+
+If you can't seem to proceed with your changes, feel free to reach me out at hi@seneth.me.
 
 ## Safety and responsibility
 
