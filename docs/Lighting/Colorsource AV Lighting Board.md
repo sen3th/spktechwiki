@@ -21,7 +21,7 @@ The power cable for this board is very fragile and should be handled with care a
 
 ## Manuals and further reading
 :::note
-Below Documentations are also for all of the Colorsource series boards, so some parts may not apply to the Colorsource 40 AV.
+Below documentations are also for all of the Colorsource series boards, so some parts may not apply to the Colorsource 40 AV.
 :::
 - [Manual](https://www.etcconnect.com/WorkArea/DownloadAsset.aspx?id=10737512174)
 - [Datasheet](https://www.etcconnect.com/WorkArea/DownloadAsset.aspx?id=10737484358)
