@@ -1,4 +1,4 @@
-# Allen & Heath ZED-428FX (Large Analog Board)
+# Allen & Heath ZED-428 (Large Analog Board)
 
 <img src="/img/z428.png" width="75%" />
 
@@ -21,6 +21,6 @@ Mute buttons on th board may not function on the first try; Press them a couple 
 
 ## Manuals and further reading
 :::note
-The User Guide is also for multiple larger ZED series boards, so some parts may not apply to the ZED-10.
+This User Guide is also for multiple larger ZED series boards, so some parts may not apply to the ZED-10.
 :::
 - [User Guide](https://www.allen-heath.com/content/uploads/2023/06/AP7028-ZED420-ZED428-ZED436-User-Guide-Issue-2.pdf)
