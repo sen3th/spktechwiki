@@ -46,10 +46,16 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/sen3th/spktechwiki/edit/main/',
+          showLastUpdateTime: true,
+          showLastUpdateAuthor: true,
         },
         blog: false,
         theme: {
           customCss: './src/css/custom.css',
+        },
+        pages: {
+          showLastUpdateTime: true,
+          showLastUpdateAuthor: true,
         },
       }),
     ],
