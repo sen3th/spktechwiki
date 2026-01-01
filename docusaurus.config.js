@@ -68,6 +68,7 @@ const config = {
         hashed: true,
       },
     ],
+    ['@docusaurus/theme-search-algolia'],
   ],
 
   themeConfig:
