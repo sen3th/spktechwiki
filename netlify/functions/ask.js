@@ -2,7 +2,7 @@ export async function handler(event) {
   try {
     const { question } = JSON.parse(event.body);
 
-    const res = await fetch("https://ai.hackclub.com/chat/completions", {
+    const res = await fetch("https://ai.hackclub.com/proxy/v1/chat/completions", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
