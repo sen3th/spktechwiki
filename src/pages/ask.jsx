@@ -31,15 +31,15 @@ export default function Ask() {
   return (
     <Layout title="Ask the Wiki">
       <main style={{ maxWidth: 800, margin: "2rem auto", padding: "1rem" }}>
-        <h1>Ask the Wiki</h1>
-        <p>Ask a question about audio, lighting, or whatever chaos this wiki documents.</p>
+        <h1>Ask ai</h1>
+        <p>Ask a question about anything you want to know. (This feature is experimental and may not always provide accurate answers and does not search the wiki content.)</p>
 
         <textarea
           rows={4}
           style={{ width: "100%", padding: "0.5rem" }}
           value={question}
           onChange={(e) => setQuestion(e.target.value)}
-          placeholder="Why does the mixer hate me?"
+          placeholder="What is an XLR Cable?"
         />
 
         <button
