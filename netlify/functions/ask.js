@@ -14,7 +14,7 @@ export async function handler(event) {
           {
             role: "system",
             content:
-              "You are an assistant for a school tech wiki. Answer clearly, concisely, and practically."
+              "You are an assistant for a school audiovisual and tech wiki. Answer clearly, concisely, and practically. Don't use text style formatting. Don't give very long answers."
           },
           {
             role: "user",
