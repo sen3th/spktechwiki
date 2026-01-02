@@ -145,7 +145,7 @@ const config = {
       indexName: 'spk-tech-wiki',
 
       // Optional: see doc section below
-      contextualSearch: true,
+      contextualSearch: false,
     },
     }),
 };
