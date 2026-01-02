@@ -62,12 +62,12 @@ const config = {
   ],
 
     themes: [
-    [
+    /*[
       require.resolve("@easyops-cn/docusaurus-search-local"),
       {
         hashed: true,
       },
-    ],
+    ],*/
   ],
 
   themeConfig:
@@ -135,6 +135,18 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
+      algolia: {
+      // The application ID provided by Algolia
+      appId: 'EN71DGOOPM',
+
+      // Public API key: it is safe to commit it
+      apiKey: 'e0ec78fd7f36ffdff741884955d911cb',
+
+      indexName: 'spk-tech-wiki',
+
+      // Optional: see doc section below
+      contextualSearch: true,
+    },
     }),
 };
 
