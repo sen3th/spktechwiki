@@ -18,6 +18,7 @@ The power cable for this board is very fragile and should be handled with care a
 - Plug in a DMX cable from the board's DMX1 output on the back to the lighting port on the wall.
 - Power on the board.
 - Use the touchscreen and physical controls to control lighting scenes and effects.
+- If connected to the router via an [ethernet cable](/docs/Other/Ethernet), you can also control the board wirelessly via a computer or on the iPad.
 
 ## Manuals and further reading
 :::note

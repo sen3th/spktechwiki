@@ -17,7 +17,7 @@ On the projector cart or on the big sound board in the corner.
 ## Basic usage
 - Plug in the board and power it on.
 - Plug in the router and power it on.
-- Connect the router to the ethernet port on the back of the board via the ethernet cable.
+- Connect the router to the [ethernet](/docs/Other/Ethernet) port on the back of the board via the ethernet cable.
 - On the iPad, connect to the wifi "Tech Team Only Wifi".
 - Open the X Air app on the iPad.
 - In the app, the board will appear once its connected to the wifi.
