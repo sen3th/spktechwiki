@@ -1,6 +1,6 @@
 # Ethernet
 
-<img src="/img/ethernet-cable.png" width="25%" />
+<img src="/img/ethernet-cable.png" width="40%" />
 
 Ethernet is a technology used for connecting devices in a local network. An ethernet cable is used to physically connect devices like computers, routers, and switches to enable communication and data transfer between them.
 
