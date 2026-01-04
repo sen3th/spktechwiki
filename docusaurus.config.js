@@ -91,11 +91,11 @@ const config = {
             position: 'left',
             label: 'Docs',
           },
-          {
+          /*{
             href: '/ask',
             label: 'Ask AI (Experimental)',
             position: 'left',
-          },
+          },*/
           {
             href: 'https://github.com/sen3th/spktechwiki',
             label: 'GitHub',
